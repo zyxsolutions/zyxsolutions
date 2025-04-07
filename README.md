@@ -1,4 +1,4 @@
-# 👋 Olá Mundo! Eu sou o Lucas
+# 👋 Olá Mundo! Eu sou o Lucas Bueno
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Back-End;Técnologo+de+Redes+em+Computadores;Apaixonado+por+Tecnologia" />
@@ -11,7 +11,7 @@
 ## 🎯 Sobre Mim
 
 ```javascript
-const talys = {
+const lucas = {
     formação: "Engenharia de Software",
     foco: "Desenvolvimento Back-End",
     paixões: ["Tecnologia", "Desenvolvimento", "Aprendizado Contínuo"],
@@ -162,8 +162,8 @@ const interesses = {
 
 ## 🌟 Destaques
 
-- 🎓 Estudante dedicado de Engenharia de Software
-- 💡 Especialização em desenvolvimento Back-End
+- 🎓 Estudante dedicado de Tecnologia em Redes de Computadores
+- 💡 Especialização Analista de Redes
 - 🌱 Em constante evolução e aprendizado
 - 🤝 Aberto a novas conexões e parcerias
 
