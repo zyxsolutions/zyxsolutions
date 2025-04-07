@@ -1,7 +1,7 @@
 # 👋 Olá Mundo! Eu sou o Lucas
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&linesApaixonado+por+Tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9745f5&size=32&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Back-End;Engenheiro+de+Software+em+Formação;Apaixonado+por+Tecnologia" />
 </div>
 
 <div align="center">
