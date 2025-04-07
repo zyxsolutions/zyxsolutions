@@ -12,10 +12,10 @@
 
 ```javascript
 const lucas = {
-    formação: "Engenharia de Software",
-    foco: "Desenvolvimento Back-End",
+    formação: "Tecnologia em redes de Computadores",
+    foco: "Analista de Redes",
     paixões: ["Tecnologia", "Desenvolvimento", "Aprendizado Contínuo"],
-    experiência: "1+ ano de dedicação intensiva",
+    experiência: "4+ ano de dedicação intensiva",
     objetivos: ["Excelência técnica", "Desenvolvimento pessoal", "Networking"]
 }
 ```
